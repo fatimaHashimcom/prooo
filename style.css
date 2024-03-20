@@ -1,0 +1,11 @@
+.items{
+    background-color: blueviolet;
+}
+.item{
+    background-color: cadetblue;
+    width:25%
+}
+.items .item img{
+    width:50%;
+    border-radius:50%
+}
